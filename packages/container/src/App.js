@@ -1,7 +1,6 @@
 import React from 'react';
 import MarketingApp from './components/MarketingApp';
 //insert comment
-//insert another comment 
 
 
 export default () => {
